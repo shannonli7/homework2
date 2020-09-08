@@ -7,11 +7,12 @@ body{
 
 h1{
   font-size: 64px;
+  text-align: center;
 }
 
 h2{
   font-size: 30px;
-  text-shadow: 5px 5px 2px #c7e2c7;
+  text-shadow: 5px 5px 2px #808080;
   text-align: left;
 }
 
